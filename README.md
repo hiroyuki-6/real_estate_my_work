@@ -1,0 +1,2 @@
+# real_estate_my_work
+SUUMO等から必要な項目を取得するプログラムを構築する
